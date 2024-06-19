@@ -1,12 +1,12 @@
 body {
     font-family: "Concert One", sans-serif;
-    color: #81abdb;
+    color: #38763f;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #84bd88;
 }
 header {
-    background-color: #a4bedc;
+    background-color: #38763f;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -22,7 +22,7 @@ select {
     font-size: 0.9rem;
     align-content: center;
     border: 1px solid transparent;
-    background-color: #81abdb;
+    background-color: #38763f;
     color: white;
 }
 select-hide {
