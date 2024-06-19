@@ -1,0 +1,58 @@
+body {
+    font-family: "Concert One", sans-serif;
+    color: #81abdb;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+header {
+    background-color: #a4bedc;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+main {
+    padding: 20px;
+}
+ul {
+    list-style-type: none;
+}
+select {
+    font-family: "Concert One", sans-serif;
+    font-size: 0.9rem;
+    align-content: center;
+    border: 1px solid transparent;
+    background-color: #81abdb;
+    color: white;
+}
+select-hide {
+    display: none;
+}
+footer {
+    text-align: center;
+    color: white;
+    background-color: #a4bedc;
+    padding: 1% 1%;
+}
+#button {
+    border-radius: 12px;
+    background-color: #a4bedc;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Concert One", sans-serif;
+    margin: 2px 1px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+#button:hover {
+    opacity: 1;
+}
+.question {
+    margin-bottom: 20px;
+}
