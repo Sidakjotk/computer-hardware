@@ -39,7 +39,8 @@ footer {
 
 button{
     margin-bottom: 10px;
-    margin-left: 250px;
+    display: inline-block;
+    text-align: center;
 }
 
 .question {
